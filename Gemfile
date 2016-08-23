@@ -45,4 +45,6 @@ group :development do
   gem 'spring'
 
   gem 'figaro'
+
+  gem 'google_oauth_calendar' , :git => 'git@github.com:deafgreatdane/google_oauth_calendar.git'
 end
